@@ -1,0 +1,15 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio & VS Code temporary / cache files
+.vs/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Test results
+TestResults/
+*.trx
